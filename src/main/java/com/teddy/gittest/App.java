@@ -15,9 +15,6 @@ public class App {
 	private static final Logger logger = LoggerFactory.getLogger(App.class);
 
 	public static void main( String[] args ) {
-		logger.debug( "Hello World!" );
-
-
 		for (int i = 0; i < 10; i++) {
 			logger.debug( "{} Hello GIT!",i);
 		}
