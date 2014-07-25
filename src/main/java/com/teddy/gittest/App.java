@@ -21,18 +21,12 @@ public class App {
 		logger.debug( "Hello World!" );
 		logger.debug( "Hello World!" );
 		logger.debug( "Hello World!" );
+
 		logger.debug( "Hello World!" );
 		logger.debug( "Hello World!" );
-		logger.debug( "Hello World!" );
-		logger.debug( "Hello World!" );
-		logger.debug( "Hello World!" );
-		logger.debug( "Hello World!" );
-		logger.debug( "Hello World!" );
-		logger.debug( "Hello World!" );
-		logger.debug( "Hello World!" );
-		logger.debug( "Hello World!" );
-		logger.debug( "Hello World!" );
-		logger.debug( "Hello World!" );
+
+
+
 		logger.debug( "Hello World!" );
 		logger.debug( "Hello World!" );
 		logger.debug( "Hello World!" );
