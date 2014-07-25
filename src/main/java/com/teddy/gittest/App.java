@@ -17,6 +17,7 @@ public class App {
 	public static void main( String[] args ) {
 		for (int i = 0; i < 10; i++) {
 			logger.debug( "{} Hello GIT!",i);
+			logger.debug( "{} Hello GIT stupid!",i);
 		}
 
 	}
